@@ -1,0 +1,14 @@
+{
+    "name": "nabila/oop-praktikum-8",
+    "description": "Praktikum 8 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "nabilamaulidia03",
+            "email": "nabilamaulidia48@gmail.com"
+        }
+    ]
+}
